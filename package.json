@@ -1,13 +1,18 @@
 {
   "name": "hey-watcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Time fix for eager Webpack watcher.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"meh. no test\" && exit 0"
+    "test": "echo \"No test. You may contribute\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/borisding/hey-watcher.git"
   },
   "keywords": [
     "webpack",
+    "watcher",
     "plugin",
     "hey-watcher"
   ],
