@@ -1,6 +1,6 @@
 {
   "name": "hey-watcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Time fix for eager Webpack watcher.",
   "main": "index.js",
   "scripts": {
